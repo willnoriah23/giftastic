@@ -1,11 +1,13 @@
 body {
-	background-image: url("../images/bad-sync-tv-television-screen-with-static-noise-from-bad-broadcast-signal-reception-as-analogue-technology-background_njtmdx4m__F0000.png")
+	background-image: url("../images/maxresdefault.jpg")
 	
 		}
 
 h1 {
-	font-size: 40px;
+	font-size: 60px;
 	color: #FDFEFE;
+	font-family: Lucida Console;
+	font-style: italic;
 
 }		
 
@@ -14,7 +16,7 @@ h1 {
 }
 
 label {
-	font-size: 25px;
+	font-size: 20px;
 	font-style: italic;
 	font-weight: bold;
 	color: #FDFEFE;
@@ -32,5 +34,9 @@ img {
 
 p {
 	color: #FDFEFE;
-	font-size: 18px;
+	font-size: 15px;
+}
+
+button {
+	font-size: 15px;
 }

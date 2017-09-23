@@ -37,7 +37,7 @@
 
 		var characters = $(this).html();
 		console.log(characters);
-		var queryUrl = "http://api.giphy.com/v1/gifs/search?q=" + characters + "&api_key=6c4d74963d164e0cb26247de3ae3ec1c&limit=8";
+		var queryUrl = "https://api.giphy.com/v1/gifs/search?q=" + characters + "&api_key=6c4d74963d164e0cb26247de3ae3ec1c&limit=6";
 		// Create a AJAX call when button is pushed
 		$.ajax({
 			url: queryUrl,
@@ -109,7 +109,7 @@
 		}
 	});
 		
-			
+
 		$(document).on("click", ".characters", displayCharacterButtons);
 		renderButtons();
 		
