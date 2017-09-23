@@ -1,0 +1,36 @@
+body {
+	background-image: url("../images/bad-sync-tv-television-screen-with-static-noise-from-bad-broadcast-signal-reception-as-analogue-technology-background_njtmdx4m__F0000.png")
+	
+		}
+
+h1 {
+	font-size: 40px;
+	color: #FDFEFE;
+
+}		
+
+#character-input {
+	font-size: 15px;
+}
+
+label {
+	font-size: 25px;
+	font-style: italic;
+	font-weight: bold;
+	color: #FDFEFE;
+}
+
+.imgbox {
+	display: inline-block;
+}
+
+img {
+	width: 350px;
+	height: 300px;
+	margin-right: 5px;
+}
+
+p {
+	color: #FDFEFE;
+	font-size: 18px;
+}
